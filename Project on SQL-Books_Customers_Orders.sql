@@ -1,5 +1,10 @@
 use smitadb;
 
+/* https://github.com/SatishDhawale/SQL_Resume_Project/blob/main/Books.csv
+   https://github.com/SatishDhawale/SQL_Resume_Project/blob/main/Customers.csv
+   https://github.com/SatishDhawale/SQL_Resume_Project/blob/main/Orders.csv
+*/
+
 select * from dbo.Books;
 
 select * from dbo.customers;
